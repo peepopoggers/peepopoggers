@@ -7,4 +7,4 @@ With that said here's a cool animated thing that shows stats or something
 
 ![peepopoggers' github stats](https://github-readme-stats.vercel.app/api?username=peepopoggers)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peepopoggers)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peepopoggers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
